@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1341416440 source:/home/co/info2/main.cpp
+	<iostream>
+	"Klammer.h"
+	<cmath>
+
+1342030828 source:/home/co/info2/Klammer.cpp
+	"Klammer.h"
+	<cmath>
+	<sstream>
+
+1340299383 /home/co/info2/Klammer.h
+	"Berechnung.h"
+	<string>
+	<iostream>
+	<sstream>
+	<cstdlib>
+	<stdio.h>
+
+1341417090 source:/home/co/info2/Berechnung.cpp
+	"Berechnung.h"
+	"Operator.h"
+
+1341353107 /home/co/info2/Berechnung.h
+	<string>
+	<iostream>
+	<sstream>
+	<cstdlib>
+	<stdio.h>
+	<vector>
+
+1341351200 /home/co/info2/Operator.h
+
+1341351160 source:/home/co/info2/Operator.cpp
+	"Operator.h"
+

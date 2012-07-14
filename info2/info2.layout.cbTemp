@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Berechnung.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="1618" topLine="57" />
+	</File>
+	<File name="Berechnung.h" open="1" top="0" tabpos="6">
+		<Cursor position="155" topLine="0" />
+	</File>
+	<File name="Klammer.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="1226" topLine="32" />
+	</File>
+	<File name="Operator.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="23" topLine="0" />
+	</File>
+	<File name="Operator.h" open="1" top="0" tabpos="5">
+		<Cursor position="247" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="679" topLine="1" />
+	</File>
+</CodeBlocks_layout_file>
